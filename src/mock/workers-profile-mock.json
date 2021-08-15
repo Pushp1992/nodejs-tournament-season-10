@@ -1,0 +1,25 @@
+
+{
+    "statusmessage": "Successful",
+    "statusCode": 1,
+    "data": {
+        "workers": [
+            {
+                "workerId": 1,
+                "workerName": "pushp",
+                "workerEmail": "pushp@gmail.com",
+                "city": "bangalore",
+                "skills": ["electrician"],
+                "charges": "INR 2500/hour"
+            },
+            {
+                "workerId": 2,
+                "workerName": "rahul",
+                "workerEmail": "rahul@gmail.com",
+                "skills": ["electrician","cook"],
+                "charges": "INR 2500/hour"
+            }
+        ]
+    }
+ }
+ 

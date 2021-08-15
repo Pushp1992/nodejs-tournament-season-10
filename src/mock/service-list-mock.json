@@ -1,0 +1,28 @@
+
+{
+    "statusmessage": "Successful",
+    "statusCode": 1,
+    "data": {
+        "services": [
+            {
+                "serviceId": 1,
+                "serviceName": "Electrical",
+                "serviceCity": "bangalore",
+                "associatedHelpers": ["Pushp"]
+            },
+            {
+                "serviceId": 2,
+                "serviceName": "Plumbing",
+                "serviceCity": "bangalore",
+                "associatedHelpers": ["Pushp", "rahul"]
+            },
+            {
+                "serviceId": 3,
+                "serviceName": "Cooking",
+                "serviceCity": "bangalore",
+                "associatedHelpers": ["Priya", "Nidhi"]
+            }
+        ]
+    }
+ }
+ 
